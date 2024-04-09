@@ -2,6 +2,7 @@
 
 This Matlab script simulates a 3 link revolut joint manipulator robot for motion planning.
 
+The approach is as follows:
 1. Construct a rigidbody tree based robot
 2. Construct Configuration Space
 3. Use A* for path planning
